@@ -1,0 +1,41 @@
+
+label {
+  margin-bottom: 10px;
+  
+}
+
+#desplegable{
+  color: white
+}
+select {
+  margin-bottom: 20px;
+  background-color: #DDF2FD;
+  width: 300px;
+  padding: 8px;
+  font-size: 20px;
+  border-radius: 5px;
+
+}
+
+.card-container {
+  display: flex;
+}
+
+.card {
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
+  background-color: #DDF2FD;
+}
+#primer{
+  color: white;
+}
+#dos{
+  color: white;
+}
+
+.card h1{
+  text-decoration: underline;
+}
